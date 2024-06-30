@@ -1,0 +1,5 @@
+===== STRUK PEMBELIAN =====
+Kode: 020, Nama: Sereal, Harga: Rp25.000,00, Jumlah: 1
+Kode: 001, Nama: Beras, Harga: Rp15.000,00, Jumlah: 5
+===========================
+Total Harga: Rp100.000,00
